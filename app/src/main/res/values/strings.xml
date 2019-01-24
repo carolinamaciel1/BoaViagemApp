@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Boa Viagem App</string>
+    <string name="novo_gasto">NOVO GASTO</string>
+    <string name="nova_viagem">NOVA VIAGEM</string>
+    <string name="minhas_viagens">MINHAS VIAGENS</string>
+    <string name="configuracao">CONFIGURAÇÃO</string>
+    <string name="usuario">LOGIN</string>
+    <string name="senha">SENHA</string>
+    <string name="erro_autenticacao_login">Usuário ou senha inválidos.</string>
+    <string name="destino">Destino</string>
+    <string name="tipo_viagem">Tipo de viagem</string>
+    <string name="data_chegada">Data de chegada</string>
+    <string name="data_saida">Data de saída</string>
+    <string name="orcamento">Orçamento</string>
+    <string name="num_pessoas">Nº de pessoas</string>
+    <string name="lazer">Lazer</string>
+    <string name="negocios">Negócios</string>
+    <string name="botao_nova_viagem">Criar nova viagem</string>
+    <string name="tipo_gasto">Tipo</string>
+    <string name="valor_gasto">Valor</string>
+    <string name="data_gasto">Data</string>
+    <string name="descricao_gasto">Descrição</string>
+    <string name="local_gasto">Local</string>
+    <string name="botao_gastei">Gastei! R$</string>
+
+</resources>
